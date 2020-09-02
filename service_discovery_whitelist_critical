@@ -1,0 +1,14 @@
+sshd
+zabbix-agent
+mysql 
+redis
+haproxy
+php-fpm
+apache
+memcache
+csf
+lfd
+exim
+postfix
+dovecot
+bind
