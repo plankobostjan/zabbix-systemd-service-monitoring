@@ -21,7 +21,7 @@ REQUIREMENTS
 INSTALLATION
 ------------
 * Server
-  * Import template __Template\_App\_systemd\_Services.xml__ file
+  * Import template from __systemd-services-zabbix-template.xml__
   * Link template to host
 * Agent
   * Place the following file inside /usr/local/bin/:
