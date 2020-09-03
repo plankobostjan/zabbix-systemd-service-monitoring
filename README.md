@@ -1,6 +1,10 @@
 systemd Service Monitoring template for Zabbix
 ===========================================
 
+#NOTE
+--------
+This repo was originally forked from https://github.com/MogiePete/zabbix-systemd-service-monitoring
+
 FEATURES
 --------
 * Discovery of systemd Services
